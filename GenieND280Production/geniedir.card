@@ -1,0 +1,5 @@
+production:     5
+respin:         A
+nuMCType:       genie
+verify:         False
+version:        v10r11p13

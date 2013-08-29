@@ -1,0 +1,7 @@
+production:     5
+respin:         E
+nuMCType:       genie
+input:          numc
+output:         nd280
+verify:         False
+version:        v10r11p17

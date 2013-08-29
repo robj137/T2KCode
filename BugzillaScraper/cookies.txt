@@ -2,4 +2,5 @@
 # http://www.netscape.com/newsref/std/cookie_spec.html
 # This is a generated file!  Do not edit.
 
+Exported via firefox.
 No, you don't get to actually look at my cookie file on github.

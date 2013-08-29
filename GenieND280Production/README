@@ -1,0 +1,31 @@
+//---------------------------------------------------------------------------// 
+Genie ND280 Monte Carlo Production Suite
+//---------------------------------------------------------------------------// 
+
+These scripts provide the machinery to set up and run Monte Carlo production
+jobs for T2K's ND280 based upon GENIE input neutrino vector files. The file
+'RunInfo.card' is used to set the important fields (which nd280 software
+version, which production run and *shudder* respin, etc...).
+
+The CreateDirs.py script sets up the directory structure and makes symbolic
+links for each of the separate beamline / beam / geometry configurations. 
+
+The MCConfigClass, MCRunInfoClass, and MCJobClass files provide the class
+structure for setting up the correct parameters for the input macro files and
+job submission scripts.
+
+CreateCfgFile.py and SubmitJob.py do pretty much what you'd expect from the
+names...
+
+WhatIsMissing.py queries the output file directories and finds missing files
+(each job has a final output of 6 files, each one the output of a single stage
+and of the job and all but the last acts as an input to the next stage).
+Also, checksize.py is useful for finding abnormal file sizes.
+
+Purge.py is useful for wiping out all of the output for a given subrun
+(it's a good idea to do just start over from the beginning for
+a given subrun if a job hiccups at any point). 
+
+GridPush.py pushes the output files to the TRIUMF SRM server using gridtools.
+
+
