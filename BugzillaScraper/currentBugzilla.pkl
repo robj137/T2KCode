@@ -1,0 +1,3894 @@
+(dp0
+I515
+(lp1
+S'minor'
+p2
+aS'Missing algorithm name in oaRecon output'
+p3
+aS'NEW'
+p4
+aS'oaRecon'
+p5
+aS'2011-11-09 16:16 '
+p6
+aS'2012-01-10 02:03:23'
+p7
+asI518
+(lp8
+S'major'
+p9
+aS'fgdRecon TPC-&gt;FGD matching is returning tracks where fit failed'
+p10
+aS'NEW'
+p11
+aS'fgdRecon'
+p12
+aS'2011-11-10 16:26 '
+p13
+aS'2011-11-10 22:11:00'
+p14
+asI520
+(lp15
+S'major'
+p16
+aS'A substantial number of FGD iso-recon tracks are failing RecPack refit'
+p17
+aS'NEW'
+p18
+aS'fgdRecon'
+p19
+aS'2011-11-14 10:50 '
+p20
+aS'2011-11-17 15:24:17'
+p21
+asI521
+(lp22
+S'major'
+p23
+aS'ecalRecon objects sometimes contain constituents from other modules'
+p24
+aS'RESOLVED'
+p25
+aS'ecalRecon'
+p26
+aS'2011-11-15 02:43 '
+p27
+aS'2011-11-21 10:13:06'
+p28
+asI522
+(lp29
+S'enhancement'
+p30
+aS'Request - function to return all constituents in a detector'
+p31
+aS'ASSIGNED'
+p32
+aS'oaRecPack'
+p33
+aS'2011-11-16 07:46 '
+p34
+aS'2011-11-22 06:09:08'
+p35
+asI527
+(lp36
+S'minor'
+p37
+aS'TPC state is often outside the TPC drift volume'
+p38
+aS'NEW'
+p39
+aS'tpcRecon'
+p40
+aS'2011-11-24 13:28 '
+p41
+aS'2011-11-25 10:58:46'
+p42
+asI528
+(lp43
+S'major'
+p44
+aS'MathMore is not available on some systems (causing compile errors in HEAD of ecalRecon)'
+p45
+aS'RESOLVED'
+p46
+aS'ecalRecon'
+p47
+aS'2011-11-28 08:24 '
+p48
+aS'2012-07-17 19:08:31'
+p49
+asI344
+(lp50
+S'critical'
+p51
+aS'Tracker-ECAL showers are not getting matched in global reconstruction'
+p52
+aS'RESOLVED'
+p53
+aS'oaRecon'
+p54
+aS'2011-03-19 09:37 '
+p55
+aS'2011-03-25 14:25:21'
+p56
+asI530
+(lp57
+S'enhancement'
+p58
+aS'Need switch to turn off TPC or FGD reconstruction'
+p59
+aS'RESOLVED'
+p60
+aS'trackerRecon'
+p61
+aS'2011-12-01 13:12 '
+p62
+aS'2011-12-07 07:57:50'
+p63
+asI531
+(lp64
+S'major'
+p65
+aS'ecalRecon crashes on nd280-validate MC'
+p66
+aS'REOPENED'
+p67
+aS'ecalRecon'
+p68
+aS'2011-12-02 16:36 '
+p69
+aS'2012-07-16 04:03:48'
+p70
+asI529
+(lp71
+S'critical'
+p72
+aS'oaRecpack is not correctly copying the Covariance values to the object overall state'
+p73
+aS'RESOLVED'
+p74
+aS'oaRecPack'
+p75
+aS'2011-11-28 14:54 '
+p76
+aS'2011-12-08 10:57:04'
+p77
+asI533
+(lp78
+S'minor'
+p79
+aS'ecalRecon cannot process old MC files'
+p80
+aS'RESOLVED'
+p81
+aS'ecalRecon'
+p82
+aS'2011-12-08 00:01 '
+p83
+aS'2011-12-08 00:17:25'
+p84
+asI89
+(lp85
+S'major'
+p86
+aS'Some events make p0dRecon extremely slow'
+p87
+aS'RESOLVED'
+p88
+aS'p0dRecon'
+p89
+aS'2010-05-22 18:17 '
+p90
+aS'2012-05-08 22:17:13'
+p91
+asI538
+(lp92
+S'critical'
+p93
+aS'problem in nd280Recon requirements file'
+p94
+aS'RESOLVED'
+p95
+aS'nd280Recon'
+p96
+aS'2011-12-08 23:18 '
+p97
+aS'2012-01-24 21:38:19'
+p98
+asI540
+(lp99
+S'critical'
+p100
+aS'Strange TrShVal for DsECAL for release candidate'
+p101
+aS'RESOLVED'
+p102
+aS'ecalRecon'
+p103
+aS'2011-12-09 14:54 '
+p104
+aS'2012-01-19 19:46:44'
+p105
+asI346
+(lp106
+S'minor'
+p107
+aS'Compiling fails on Mac OS X'
+p108
+aS'RESOLVED'
+p109
+aS'p0dRecon'
+p110
+aS'2011-03-23 06:12 '
+p111
+aS'2011-03-23 07:29:46'
+p112
+asI542
+(lp113
+S'major'
+p114
+aS'p0dRecon is reconstructing many simulated muons as TReconShower'
+p115
+aS'RESOLVED'
+p116
+aS'p0dRecon'
+p117
+aS'2011-12-13 14:11 '
+p118
+aS'2012-02-04 03:03:12'
+p119
+asI544
+(lp120
+S'major'
+p121
+aS'p0decalRecon PIDs not being filled properly'
+p122
+aS'RESOLVED'
+p123
+aS'p0decalRecon'
+p124
+aS'2011-12-15 03:29 '
+p125
+aS'2012-07-26 20:47:37'
+p126
+asI347
+(lp127
+S'minor'
+p128
+aS'Compiling ecalRecon fails on Mac OS X'
+p129
+aS'RESOLVED'
+p130
+aS'ecalRecon'
+p131
+aS'2011-03-23 06:50 '
+p132
+aS'2011-03-23 08:06:10'
+p133
+asI551
+(lp134
+S'major'
+p135
+aS'Memory leak and potentially large-scale bug in add_manager'
+p136
+aS'RESOLVED'
+p137
+aS'oaRecPack'
+p138
+aS'2011-12-24 01:33 '
+p139
+aS'2012-07-25 08:57:24'
+p140
+asI552
+(lp141
+S'major'
+p142
+aS'P0D recon if statement depends on uninitialised data'
+p143
+aS'RESOLVED'
+p144
+aS'p0dRecon'
+p145
+aS'2011-12-24 03:27 '
+p146
+aS'2012-01-10 23:08:30'
+p147
+asI553
+(lp148
+S'minor'
+p149
+aS'Past-the-end error reading from vector in TP0DPID2DTkLkld'
+p150
+aS'RESOLVED'
+p151
+aS'p0dRecon'
+p152
+aS'2011-12-24 04:47 '
+p153
+aS'2011-12-30 11:24:55'
+p154
+asI554
+(lp155
+S'minor'
+p156
+aS'&quot;dx_dS&quot; messages in RECPACK'
+p157
+aS'RESOLVED'
+p158
+aS'RECPACK'
+p159
+aS'2011-12-27 06:04 '
+p160
+aS'2012-01-09 04:09:49'
+p161
+asI555
+(lp162
+S'major'
+p163
+aS'EWrongStateType from oaRecPack (fgdRecon?)'
+p164
+aS'RESOLVED'
+p165
+aS'oaRecPack'
+p166
+aS'2011-12-31 05:06 '
+p167
+aS'2012-01-10 08:00:24'
+p168
+asI557
+(lp169
+S'minor'
+p170
+aS'TP0DECALClusterProperties::fModule is never set'
+p171
+aS'NEW'
+p172
+aS'p0decalRecon'
+p173
+aS'2011-12-31 20:50 '
+p174
+aS'2011-12-31 20:50:06'
+p175
+asI562
+(lp176
+S'minor'
+p177
+aS'FGD Endplates are too thick in oaRecPack geometry representation'
+p178
+aS'RESOLVED'
+p179
+aS'oaRecPack'
+p180
+aS'2012-01-09 09:00 '
+p181
+aS'2012-03-09 03:10:23'
+p182
+asI563
+(lp183
+S'major'
+p184
+aS'Difference in momentum loss between recon and truth'
+p185
+aS'NEW'
+p186
+aS'oaRecon'
+p187
+aS'2012-01-09 13:03 '
+p188
+aS'2012-03-09 07:51:24'
+p189
+asI53
+(lp190
+S'critical'
+p191
+aS'Handle Leak with first pass recon output, using minimal oaEvent loop'
+p192
+aS'RESOLVED'
+p193
+aS'oaRecon'
+p194
+aS'2010-04-07 13:48 '
+p195
+aS'2010-05-27 11:48:10'
+p196
+asI56
+(lp197
+S'enhancement'
+p198
+aS'ecalRecon v7r5 compilation errors'
+p199
+aS'RESOLVED'
+p200
+aS'ecalRecon'
+p201
+aS'2010-04-09 02:31 '
+p202
+aS'2010-04-09 02:43:48'
+p203
+asI570
+(lp204
+S'major'
+p205
+aS'fgdUtils::GetAttenCorrTime() in fgdRecon is sometimes throwing exceptions'
+p206
+aS'NEW'
+p207
+aS'fgdRecon'
+p208
+aS'2012-01-16 09:10 '
+p209
+aS'2012-01-18 19:44:18'
+p210
+asI59
+(lp211
+S'major'
+p212
+aS'TGlobalRecon caches THandles between events'
+p213
+aS'RESOLVED'
+p214
+aS'oaRecon'
+p215
+aS'2010-04-09 09:19 '
+p216
+aS'2010-08-12 03:14:34'
+p217
+asI572
+(lp218
+S'major'
+p219
+aS'&quot;using namespace Recpack&quot; in oaRecPack and RECPACK header files'
+p220
+aS'NEW'
+p221
+aS'oaRecPack'
+p222
+aS'2012-01-17 06:56 '
+p223
+aS'2012-06-19 00:07:03'
+p224
+asI61
+(lp225
+S'enhancement'
+p226
+aS'Uninitialized memory passed into RecPack from TGlobalRecon'
+p227
+aS'NEW'
+p228
+aS'oaRecon'
+p229
+aS'2010-04-09 15:41 '
+p230
+aS'2011-02-11 12:05:23'
+p231
+asI574
+(lp232
+S'critical'
+p233
+aS'PropagateToSurface no longer works with new oaRecPack'
+p234
+aS'RESOLVED'
+p235
+aS'oaRecPack'
+p236
+aS'2012-01-19 14:51 '
+p237
+aS'2012-01-20 02:37:56'
+p238
+asI575
+(lp239
+S'major'
+p240
+aS'Prepare p0dRecon TReconPID clusters for globalRecon'
+p241
+aS'RESOLVED'
+p242
+aS'p0dRecon'
+p243
+aS'2012-01-20 12:29 '
+p244
+aS'2013-01-09 06:28:49'
+p245
+asI576
+(lp246
+S'major'
+p247
+aS"PIDs from tpcRecon and oaRecon don't match"
+p248
+aS'RESOLVED'
+p249
+aS'nd280Recon'
+p250
+aS'2012-01-24 02:22 '
+p251
+aS'2012-07-16 09:28:07'
+p252
+asI67
+(lp253
+S'enhancement'
+p254
+aS'Error message: TFgdTpcMatcherIncremental::FindDetectorObjects:: FGD1/TPC2/FGD2 matching failed. WHOOPS, should never happen.'
+p255
+aS'ASSIGNED'
+p256
+aS'fgdRecon'
+p257
+aS'2010-04-12 09:58 '
+p258
+aS'2011-02-11 12:07:18'
+p259
+asI182
+(lp260
+S'critical'
+p261
+aS'EcalRecon failures in testbeam data processing'
+p262
+aS'RESOLVED'
+p263
+aS'ecalRecon'
+p264
+aS'2010-10-19 08:15 '
+p265
+aS'2010-11-08 05:56:48'
+p266
+asI71
+(lp267
+S'major'
+p268
+aS'P0DRECON.exe core dump'
+p269
+aS'RESOLVED'
+p270
+aS'p0dRecon'
+p271
+aS'2010-04-16 04:53 '
+p272
+aS'2010-05-02 01:17:15'
+p273
+asI74
+(lp274
+S'minor'
+p275
+aS'Public constructor(s) in singleton class(es)'
+p276
+aS'RESOLVED'
+p277
+aS'fgdRecon'
+p278
+aS'2010-04-26 13:00 '
+p279
+aS'2010-10-20 14:30:33'
+p280
+asI588
+(lp281
+S'critical'
+p282
+aS'global vertex is not being saved'
+p283
+aS'RESOLVED'
+p284
+aS'oaRecon'
+p285
+aS'2012-02-06 07:41 '
+p286
+aS'2012-02-07 03:03:31'
+p287
+asI589
+(lp288
+S'major'
+p289
+aS'GetOriginalObject does not return an object on occasions'
+p290
+aS'RESOLVED'
+p291
+aS'oaRecPack'
+p292
+aS'2012-02-06 08:17 '
+p293
+aS'2012-03-09 04:08:13'
+p294
+asI591
+(lp295
+S'minor'
+p296
+aS'Memory leaks'
+p297
+aS'RESOLVED'
+p298
+aS'nd280Recon'
+p299
+aS'2012-02-06 16:47 '
+p300
+aS'2012-02-11 06:31:09'
+p301
+asI592
+(lp302
+S'major'
+p303
+aS'Refitting of tracks can place objects outside Active Volume'
+p304
+aS'NEW'
+p305
+aS'oaRecon'
+p306
+aS'2012-02-08 19:34 '
+p307
+aS'2012-03-12 04:33:37'
+p308
+asI594
+(lp309
+S'minor'
+p310
+aS'Small objects can have negative NDOF'
+p311
+aS'NEW'
+p312
+aS'oaRecon'
+p313
+aS'2012-02-08 21:41 '
+p314
+aS'2012-03-09 06:43:38'
+p315
+asI595
+(lp316
+S'minor'
+p317
+aS'Objects can have negative chi2'
+p318
+aS'NEW'
+p319
+aS'oaRecon'
+p320
+aS'2012-02-08 21:44 '
+p321
+aS'2012-03-09 07:06:27'
+p322
+asI596
+(lp323
+S'minor'
+p324
+aS'tpcRecon likelihood fit converges with crazy values which can put the objects outside the TPC'
+p325
+aS'NEW'
+p326
+aS'tpcRecon'
+p327
+aS'2012-02-08 22:59 '
+p328
+aS'2012-05-22 15:23:05'
+p329
+asI597
+(lp330
+S'major'
+p331
+aS'Node ordering issue with oaRecon'
+p332
+aS'NEW'
+p333
+aS'oaRecon'
+p334
+aS'2012-02-09 11:44 '
+p335
+aS'2012-03-09 03:38:26'
+p336
+asI598
+(lp337
+S'major'
+p338
+aS'Tracker Recon hangs or exits with non-zero status on event.'
+p339
+aS'RESOLVED'
+p340
+aS'fgdRecon'
+p341
+aS'2012-02-10 00:32 '
+p342
+aS'2012-07-25 08:37:34'
+p343
+asI599
+(lp344
+S'major'
+p345
+aS'New oaRecPack isinf/isnan not compiling on MacOS'
+p346
+aS'RESOLVED'
+p347
+aS'oaRecPack'
+p348
+aS'2012-02-10 09:28 '
+p349
+aS'2012-03-09 03:14:32'
+p350
+asI600
+(lp351
+S'critical'
+p352
+aS'Segmentation faults with nd280Recon v0r15'
+p353
+aS'RESOLVED'
+p354
+aS'nd280Recon'
+p355
+aS'2012-02-12 06:44 '
+p356
+aS'2012-02-19 19:46:02'
+p357
+asI601
+(lp358
+S'minor'
+p359
+aS'Residual safety cut breaks logic of when to stop incremental matching'
+p360
+aS'NEW'
+p361
+aS'fgdRecon'
+p362
+aS'2012-02-12 20:06 '
+p363
+aS'2012-02-13 16:08:44'
+p364
+asI603
+(lp365
+S'minor'
+p366
+aS'Malformed/corrupted surface'
+p367
+aS'NEW'
+p368
+aS'RECPACK'
+p369
+aS'2012-02-13 20:53 '
+p370
+aS'2012-02-20 20:20:08'
+p371
+asI604
+(lp372
+S'minor'
+p373
+aS'EDeposit of tracks is incorrectly set to that of first node'
+p374
+aS'RESOLVED'
+p375
+aS'ecalRecon'
+p376
+aS'2012-02-14 02:06 '
+p377
+aS'2012-02-15 17:17:36'
+p378
+asI605
+(lp379
+S'major'
+p380
+aS'P0D Muon Decay Tagger fails certain samples'
+p381
+aS'RESOLVED'
+p382
+aS'p0dRecon'
+p383
+aS'2012-02-14 12:22 '
+p384
+aS'2012-10-17 12:41:36'
+p385
+asI606
+(lp386
+S'critical'
+p387
+aS'Global vertexing crashes oaRecon'
+p388
+aS'RESOLVED'
+p389
+aS'oaRecon'
+p390
+aS'2012-02-14 16:23 '
+p391
+aS'2012-02-15 21:07:43'
+p392
+asI607
+(lp393
+S'minor'
+p394
+aS'Strange FGD time bin in event with no FGD hits'
+p395
+aS'NEW'
+p396
+aS'fgdRecon'
+p397
+aS'2012-02-15 02:35 '
+p398
+aS'2012-02-15 02:35:30'
+p399
+asI608
+(lp400
+S'major'
+p401
+aS'latest version of TPC recon breaks more tracks'
+p402
+aS'NEW'
+p403
+aS'tpcRecon'
+p404
+aS'2012-02-16 05:38 '
+p405
+aS'2012-07-16 09:50:13'
+p406
+asI609
+(lp407
+S'enhancement'
+p408
+aS'Weird momentum loss for electrons at low momentum'
+p409
+aS'NEW'
+p410
+aS'oaRecPack'
+p411
+aS'2012-02-16 16:50 '
+p412
+aS'2012-02-17 04:53:23'
+p413
+asI610
+(lp414
+S'enhancement'
+p415
+aS'Wrong seed state for refit of unused fgdRecon tracks'
+p416
+aS'RESOLVED'
+p417
+aS'trackerRecon'
+p418
+aS'2012-02-17 06:53 '
+p419
+aS'2012-07-25 09:19:29'
+p420
+asI611
+(lp421
+S'major'
+p422
+aS'Wrong PID hypo leads to large momentum bias'
+p423
+aS'RESOLVED'
+p424
+aS'oaRecon'
+p425
+aS'2012-02-17 07:45 '
+p426
+aS'2012-03-09 07:23:51'
+p427
+asI613
+(lp428
+S'critical'
+p429
+aS'Inability to compute ds_dx0 aborts many jobs'
+p430
+aS'RESOLVED'
+p431
+aS'RECPACK'
+p432
+aS'2012-02-20 22:41 '
+p433
+aS'2012-02-22 00:08:01'
+p434
+asI615
+(lp435
+S'major'
+p436
+aS'Event seen with track reconstructed with wrong sign in x!'
+p437
+aS'RESOLVED'
+p438
+aS'tpcRecon'
+p439
+aS'2012-02-22 08:50 '
+p440
+aS'2012-07-16 09:43:17'
+p441
+asI616
+(lp442
+S'enhancement'
+p443
+aS'ECAL showers get wrong direction due to a few hits at centre of detector.'
+p444
+aS'RESOLVED'
+p445
+aS'ecalRecon'
+p446
+aS'2012-02-22 09:07 '
+p447
+aS'2012-02-23 00:45:57'
+p448
+asI617
+(lp449
+S'major'
+p450
+aS"Investigation of doubled peak structure in TPC-FGD incremental matching chi2's"
+p451
+aS'NEW'
+p452
+aS'oaRecPack'
+p453
+aS'2012-02-22 12:09 '
+p454
+aS'2012-07-25 09:03:14'
+p455
+asI622
+(lp456
+S'enhancement'
+p457
+aS'TestFgdTpcMatching does not fill cleanliness variable'
+p458
+aS'NEW'
+p459
+aS'fgdRecon'
+p460
+aS'2012-03-01 23:40 '
+p461
+aS'2012-03-01 23:40:49'
+p462
+asI623
+(lp463
+S'enhancement'
+p464
+aS'Uninitilaised variables in Validation.cxx'
+p465
+aS'NEW'
+p466
+aS'tpcRecon'
+p467
+aS'2012-03-02 00:08 '
+p468
+aS'2012-03-02 00:08:09'
+p469
+asI117
+(lp470
+S'major'
+p471
+aS'Fit instabilities in combined XYZ fits in tpcRecon'
+p472
+aS'RESOLVED'
+p473
+aS'tpcRecon'
+p474
+aS'2010-08-04 09:43 '
+p475
+aS'2011-11-01 14:04:22'
+p476
+asI118
+(lp477
+S'major'
+p478
+aS'Bias in residuals along the drift distance (~200 um) in tpcRecon'
+p479
+aS'RESOLVED'
+p480
+aS'tpcRecon'
+p481
+aS'2010-08-04 09:44 '
+p482
+aS'2012-07-16 09:18:29'
+p483
+asI119
+(lp484
+S'major'
+p485
+aS'Wrong fits for low energy tracks (mainly electrons) in tpcRecon'
+p486
+aS'RESOLVED'
+p487
+aS'tpcRecon'
+p488
+aS'2010-08-04 09:46 '
+p489
+aS'2011-11-01 14:05:39'
+p490
+asI632
+(lp491
+S'enhancement'
+p492
+aS'Use of oaGeomInfo-&gt;GetXXXX(hit_position)'
+p493
+aS'NEW'
+p494
+aS'ecalRecon'
+p495
+aS'2012-03-07 06:15 '
+p496
+aS'2012-03-09 02:52:37'
+p497
+asI121
+(lp498
+S'minor'
+p499
+aS'Validation plots need to be validated in tpcRecon'
+p500
+aS'RESOLVED'
+p501
+aS'tpcRecon'
+p502
+aS'2010-08-04 09:49 '
+p503
+aS'2012-07-16 09:21:32'
+p504
+asI122
+(lp505
+S'minor'
+p506
+aS'Existing documentation needs to be updated in tpcRecon'
+p507
+aS'RESOLVED'
+p508
+aS'tpcRecon'
+p509
+aS'2010-08-04 09:52 '
+p510
+aS'2011-11-01 14:02:58'
+p511
+asI635
+(lp512
+S'critical-production'
+p513
+aS'Inefficiency in shower angular clustering algorithm'
+p514
+aS'RESOLVED'
+p515
+aS'p0dRecon'
+p516
+aS'2012-03-13 12:55 '
+p517
+aS'2012-03-16 07:35:49'
+p518
+asI720
+(lp519
+S'critical'
+p520
+aS'Maximum charge threshold differences between DsECal and BrECal and in data and MC'
+p521
+aS'RESOLVED'
+p522
+aS'ecalRecon'
+p523
+aS'2012-07-03 03:06 '
+p524
+aS'2012-07-03 05:48:30'
+p525
+asI637
+(lp526
+S'major'
+p527
+aS'Infinite loop in oaRecon when processing real data COSMIC triggers'
+p528
+aS'RESOLVED'
+p529
+aS'oaRecon'
+p530
+aS'2012-03-13 17:37 '
+p531
+aS'2012-09-05 08:15:36'
+p532
+asI277
+(lp533
+S'major'
+p534
+aS'FGD Recon is choking on event #7433 in run 4174_0002'
+p535
+aS'RESOLVED'
+p536
+aS'fgdRecon'
+p537
+aS'2011-01-25 12:05 '
+p538
+aS'2012-02-28 11:39:50'
+p539
+asI132
+(lp540
+S'enhancement'
+p541
+aS'myEventDisplay accesses geometry in BeginFile()'
+p542
+aS'RESOLVED'
+p543
+aS'tpcRecon'
+p544
+aS'2010-08-17 23:03 '
+p545
+aS'2010-10-19 05:35:30'
+p546
+asI646
+(lp547
+S'major'
+p548
+aS'TPC objects with 90 degree kinks'
+p549
+aS'RESOLVED'
+p550
+aS'tpcRecon'
+p551
+aS'2012-03-20 23:24 '
+p552
+aS'2012-03-21 06:13:20'
+p553
+asI135
+(lp554
+S'major'
+p555
+aS'RunOAReconEvDisplay accesses geometry in BeginFile()'
+p556
+aS'RESOLVED'
+p557
+aS'oaRecon'
+p558
+aS'2010-08-18 00:03 '
+p559
+aS'2010-12-16 12:13:54'
+p560
+asI137
+(lp561
+S'major'
+p562
+aS'fgdReconMidasDisplay accesses geometry in BeginFile()'
+p563
+aS'RESOLVED'
+p564
+aS'fgdRecon'
+p565
+aS'2010-08-18 00:14 '
+p566
+aS'2010-08-27 14:43:21'
+p567
+asI138
+(lp568
+S'major'
+p569
+aS'RunTrackerRecon accesses geometry in BeginFile()'
+p570
+aS'RESOLVED'
+p571
+aS'fgdRecon'
+p572
+aS'2010-08-18 00:20 '
+p573
+aS'2010-08-18 00:24:15'
+p574
+asI139
+(lp575
+S'major'
+p576
+aS'fgdDecodeAndCalibrateLoop accesses geometry in BeginFile()'
+p577
+aS'RESOLVED'
+p578
+aS'fgdRecon'
+p579
+aS'2010-08-18 00:27 '
+p580
+aS'2010-12-16 12:07:54'
+p581
+asI140
+(lp582
+S'major'
+p583
+aS'p0d-track-validate accesses geometry in BeginFile()'
+p584
+aS'RESOLVED'
+p585
+aS'p0dRecon'
+p586
+aS'2010-08-18 00:31 '
+p587
+aS'2010-08-18 02:13:12'
+p588
+asI141
+(lp589
+S'major'
+p590
+aS'p0d-recombine-validate accesses geometry in BeginFile()'
+p591
+aS'RESOLVED'
+p592
+aS'p0dRecon'
+p593
+aS'2010-08-18 00:33 '
+p594
+aS'2010-08-18 02:11:35'
+p595
+asI142
+(lp596
+S'major'
+p597
+aS'p0d-vertex-validate accesses geometry in BeginFile()'
+p598
+aS'RESOLVED'
+p599
+aS'p0dRecon'
+p600
+aS'2010-08-18 00:35 '
+p601
+aS'2010-08-18 02:06:58'
+p602
+asI657
+(lp603
+S'enhancement'
+p604
+aS'validation scripts use bash-isms but are run as sh'
+p605
+aS'RESOLVED'
+p606
+aS'ecalRecon'
+p607
+aS'2012-03-28 03:16 '
+p608
+aS'2012-06-08 05:11:40'
+p609
+asI658
+(lp610
+S'minor'
+p611
+aS'nd280Recon v1r5p1 fails on one cosmic event that was okay with v1r3p3'
+p612
+aS'NEW'
+p613
+aS'oaRecon'
+p614
+aS'2012-03-28 17:38 '
+p615
+aS'2012-04-08 15:11:07'
+p616
+asI659
+(lp617
+S'minor'
+p618
+aS'Incorrect bit logic in TTPCWaveForm.hxx'
+p619
+aS'RESOLVED'
+p620
+aS'tpcRecon'
+p621
+aS'2012-03-28 22:49 '
+p622
+aS'2012-07-16 10:16:05'
+p623
+asI660
+(lp624
+S'critical-production'
+p625
+aS'FGD iso-reconstruction produces tracks going backward'
+p626
+aS'RESOLVED'
+p627
+aS'fgdRecon'
+p628
+aS'2012-04-04 23:02 '
+p629
+aS'2012-04-14 07:49:21'
+p630
+asI662
+(lp631
+S'minor'
+p632
+aS'TTrackerConnector should copy TPC-FGD objects before using them'
+p633
+aS'NEW'
+p634
+aS'trackerRecon'
+p635
+aS'2012-04-12 09:48 '
+p636
+aS'2012-04-12 09:48:53'
+p637
+asI152
+(lp638
+S'minor'
+p639
+aS'Warnings in RECPACK under gcc 4.5.0'
+p640
+aS'NEW'
+p641
+aS'RECPACK'
+p642
+aS'2010-08-24 21:18 '
+p643
+aS'2011-07-12 19:53:40'
+p644
+asI39
+(lp645
+S'critical'
+p646
+aS'need #include &lt;memory&gt; in p0dRecon'
+p647
+aS'RESOLVED'
+p648
+aS'p0dRecon'
+p649
+aS'2010-03-03 18:48 '
+p650
+aS'2010-03-03 19:59:06'
+p651
+asI666
+(lp652
+S'critical-production'
+p653
+aS'Momentum scale in MC production 5'
+p654
+aS'RESOLVED'
+p655
+aS'tpcRecon'
+p656
+aS'2012-04-24 23:36 '
+p657
+aS'2012-05-02 14:40:26'
+p658
+asI160
+(lp659
+S'major'
+p660
+aS'TP0DPairwiseVertex loses input tracks'
+p661
+aS'RESOLVED'
+p662
+aS'p0dRecon'
+p663
+aS'2010-09-16 14:45 '
+p664
+aS'2010-09-19 08:27:42'
+p665
+asI674
+(lp666
+S'critical'
+p667
+aS'Tracks with infinite momentum'
+p668
+aS'RESOLVED'
+p669
+aS'tpcRecon'
+p670
+aS'2012-05-03 06:37 '
+p671
+aS'2012-05-03 08:15:52'
+p672
+asI677
+(lp673
+S'minor'
+p674
+aS'Substantial increase in OOFV background in nu-mu analysis'
+p675
+aS'RESOLVED'
+p676
+aS'tpcRecon'
+p677
+aS'2012-05-07 13:24 '
+p678
+aS'2012-07-16 10:01:33'
+p679
+asI679
+(lp680
+S'minor'
+p681
+aS'P0D Shower Opening Angle Always 0.2'
+p682
+aS'RESOLVED'
+p683
+aS'p0dRecon'
+p684
+aS'2012-05-11 10:04 '
+p685
+aS'2012-10-17 12:27:09'
+p686
+asI169
+(lp687
+S'minor'
+p688
+aS'TPC-&gt;FGD extrapolation fails for data with magnetic field off'
+p689
+aS'NEW'
+p690
+aS'oaRecPack'
+p691
+aS'2010-10-07 11:43 '
+p692
+aS'2011-02-11 12:02:12'
+p693
+asI682
+(lp694
+S'minor'
+p695
+aS'Validation stand alone commands fail to find input files'
+p696
+aS'RESOLVED'
+p697
+aS'ecalRecon'
+p698
+aS'2012-05-18 03:04 '
+p699
+aS'2012-06-08 04:24:09'
+p700
+asI173
+(lp701
+S'minor'
+p702
+aS'Validation depends on &quot;make test&quot;'
+p703
+aS'RESOLVED'
+p704
+aS'p0dRecon'
+p705
+aS'2010-10-12 10:44 '
+p706
+aS'2010-10-13 12:37:50'
+p707
+asI175
+(lp708
+S'enhancement'
+p709
+aS'50% of tpcRecon time spent running TTPCt0::fitT0fromECAL'
+p710
+aS'NEW'
+p711
+aS'tpcRecon'
+p712
+aS'2010-10-14 17:50 '
+p713
+aS'2011-02-11 12:07:00'
+p714
+asI688
+(lp715
+S'minor'
+p716
+aS'Running magnet-off MC causes RecPack to crash'
+p717
+aS'NEW'
+p718
+aS'RECPACK'
+p719
+aS'2012-06-07 09:11 '
+p720
+aS'2012-06-08 03:02:40'
+p721
+asI712
+(lp722
+S'major'
+p723
+aS'TransverseChargeRatio incorrectly calculated'
+p724
+aS'RESOLVED'
+p725
+aS'ecalRecon'
+p726
+aS'2012-06-26 09:17 '
+p727
+aS'2012-07-01 15:51:54'
+p728
+asI180
+(lp729
+S'major'
+p730
+aS'oaAnalysis (v4r27) crash when processing neutrino mc file.'
+p731
+aS'RESOLVED'
+p732
+aS'RECPACK'
+p733
+aS'2010-10-18 08:41 '
+p734
+aS'2010-11-18 07:07:30'
+p735
+asI694
+(lp736
+S'enhancement'
+p737
+aS'&quot;using namespace CLHEP&quot; in several header files'
+p738
+aS'NEW'
+p739
+aS'RECPACK'
+p740
+aS'2012-06-14 02:05 '
+p741
+aS'2012-06-14 02:05:28'
+p742
+asI201
+(lp743
+S'enhancement'
+p744
+aS'p0dRecon p0dNuESearch not reconstruction'
+p745
+aS'RESOLVED'
+p746
+aS'p0dRecon'
+p747
+aS'2010-11-11 13:16 '
+p748
+aS'2011-11-10 07:55:58'
+p749
+asI696
+(lp750
+S'major'
+p751
+aS'Near-duplicate classes in RECPACK and oaRecPack'
+p752
+aS'RESOLVED'
+p753
+aS'oaRecPack'
+p754
+aS'2012-06-17 23:07 '
+p755
+aS'2012-11-07 21:17:26'
+p756
+asI697
+(lp757
+S'enhancement'
+p758
+aS'Scary #define in RECPACK/util/Definitions.h'
+p759
+aS'NEW'
+p760
+aS'RECPACK'
+p761
+aS'2012-06-17 23:31 '
+p762
+aS'2012-12-26 18:35:55'
+p763
+asI186
+(lp764
+S'major'
+p765
+aS'oaAnalysis aborts on particle gun'
+p766
+aS'RESOLVED'
+p767
+aS'RECPACK'
+p768
+aS'2010-10-21 18:34 '
+p769
+aS'2010-11-17 14:41:16'
+p770
+asI699
+(lp771
+S'major'
+p772
+aS'smrdRecon relies on Recpack identifiers in global namespace'
+p773
+aS'NEW'
+p774
+aS'smrdRecon'
+p775
+aS'2012-06-18 00:39 '
+p776
+aS'2012-06-19 02:38:22'
+p777
+asI700
+(lp778
+S'enhancement'
+p779
+aS'Scary #defines in tpcRecon/src/HelixModel.hxx'
+p780
+aS'RESOLVED'
+p781
+aS'tpcRecon'
+p782
+aS'2012-06-18 01:01 '
+p783
+aS'2012-06-18 01:20:52'
+p784
+asI701
+(lp785
+S'enhancement'
+p786
+aS'tpcRecon relies on Recpack identifiers in global namespace'
+p787
+aS'NEW'
+p788
+aS'tpcRecon'
+p789
+aS'2012-06-18 01:29 '
+p790
+aS'2012-06-18 03:18:28'
+p791
+asI702
+(lp792
+S'minor'
+p793
+aS'tpcRecon uses undefined z variable in TTPCLikFit.cxx'
+p794
+aS'RESOLVED'
+p795
+aS'tpcRecon'
+p796
+aS'2012-06-18 02:02 '
+p797
+aS'2012-06-18 02:07:06'
+p798
+asI703
+(lp799
+S'enhancement'
+p800
+aS'fgdRecon relies on Recpack identifiers in global namespace'
+p801
+aS'NEW'
+p802
+aS'fgdRecon'
+p803
+aS'2012-06-18 03:30 '
+p804
+aS'2012-06-18 03:30:06'
+p805
+asI705
+(lp806
+S'critical'
+p807
+aS'SIGABRT raised when processing beam MC files'
+p808
+aS'RESOLVED'
+p809
+aS'RECPACK'
+p810
+aS'2012-06-18 22:57 '
+p811
+aS'2012-07-16 23:18:32'
+p812
+asI706
+(lp813
+S'enhancement'
+p814
+aS'trackerRecon relies on Recpack identifiers in global namespace'
+p815
+aS'NEW'
+p816
+aS'trackerRecon'
+p817
+aS'2012-06-18 23:55 '
+p818
+aS'2012-06-18 23:55:48'
+p819
+asI707
+(lp820
+S'enhancement'
+p821
+aS'oaRecon relies on Recpack identifiers in global namespace'
+p822
+aS'NEW'
+p823
+aS'oaRecon'
+p824
+aS'2012-06-18 23:58 '
+p825
+aS'2012-06-18 23:58:30'
+p826
+asI709
+(lp827
+S'enhancement'
+p828
+aS'Suggestion for speeding up oaRecPack geometry initialization'
+p829
+aS'NEW'
+p830
+aS'oaRecPack'
+p831
+aS'2012-06-20 21:09 '
+p832
+aS'2012-06-20 21:09:10'
+p833
+asI198
+(lp834
+S'major'
+p835
+aS'p0dRecon NueEvtInfo creating new output objects'
+p836
+aS'RESOLVED'
+p837
+aS'p0dRecon'
+p838
+aS'2010-11-11 12:59 '
+p839
+aS'2011-11-10 07:54:41'
+p840
+asI199
+(lp841
+S'minor'
+p842
+aS'p0dRecon p0dNuETools not reconstruction'
+p843
+aS'RESOLVED'
+p844
+aS'p0dRecon'
+p845
+aS'2010-11-11 13:03 '
+p846
+aS'2011-12-07 14:44:51'
+p847
+asI200
+(lp848
+S'major'
+p849
+aS'p0dRecon p0dReconObjects creating new output objects'
+p850
+aS'RESOLVED'
+p851
+aS'p0dRecon'
+p852
+aS'2010-11-11 13:09 '
+p853
+aS'2011-11-10 07:55:08'
+p854
+asI713
+(lp855
+S'minor'
+p856
+aS'GetG4Trajectory in TValidationUtils seems broken'
+p857
+aS'NEW'
+p858
+aS'oaRecPack'
+p859
+aS'2012-06-27 17:21 '
+p860
+aS'2012-06-27 17:21:41'
+p861
+asI203
+(lp862
+S'critical'
+p863
+aS'RunOARecon.exe crashes'
+p864
+aS'RESOLVED'
+p865
+aS'oaRecon'
+p866
+aS'2010-11-16 21:50 '
+p867
+aS'2011-02-25 10:34:26'
+p868
+asI802
+(lp869
+S'minor'
+p870
+aS'Finalize(TND280Output&amp; ) method is deprecated'
+p871
+aS'RESOLVED'
+p872
+aS'p0dRecon'
+p873
+aS'2012-09-24 23:35 '
+p874
+aS'2012-09-25 00:42:42'
+p875
+asI208
+(lp876
+S'critical'
+p877
+aS'90% of Cosmic hits being rejected'
+p878
+aS'RESOLVED'
+p879
+aS'p0dRecon'
+p880
+aS'2010-11-17 22:34 '
+p881
+aS'2010-11-18 00:20:01'
+p882
+asI120
+(lp883
+S'minor'
+p884
+aS'Problems combining low-energy tracks which bend back on themselves in tpcRecon'
+p885
+aS'RESOLVED'
+p886
+aS'tpcRecon'
+p887
+aS'2010-08-04 09:48 '
+p888
+aS'2012-07-16 09:19:58'
+p889
+asI723
+(lp890
+S'critical'
+p891
+aS'Wrong (inverse) particle mass scaling for dE/dx map'
+p892
+aS'RESOLVED'
+p893
+aS'oaRecPack'
+p894
+aS'2012-07-05 05:36 '
+p895
+aS'2012-07-05 05:37:54'
+p896
+asI724
+(lp897
+S'critical'
+p898
+aS'TPC dead material not included in recon geometry'
+p899
+aS'RESOLVED'
+p900
+aS'oaRecPack'
+p901
+aS'2012-07-05 05:41 '
+p902
+aS'2012-07-05 05:42:18'
+p903
+asI725
+(lp904
+S'major'
+p905
+aS'HEAD of tpcRecon cannot write output file'
+p906
+aS'RESOLVED'
+p907
+aS'tpcRecon'
+p908
+aS'2012-07-06 04:31 '
+p909
+aS'2012-07-16 09:53:21'
+p910
+asI726
+(lp911
+S'minor'
+p912
+aS'ecalRecon 3D matching seeded likelihood has incorrect Gaussian sigma'
+p913
+aS'RESOLVED'
+p914
+aS'ecalRecon'
+p915
+aS'2012-07-09 20:05 '
+p916
+aS'2012-07-09 20:08:04'
+p917
+asI215
+(lp918
+S'critical'
+p919
+aS'RunOARecon.exe still crashes without ECALrecon'
+p920
+aS'RESOLVED'
+p921
+aS'oaRecon'
+p922
+aS'2010-11-20 18:35 '
+p923
+aS'2011-03-04 01:36:56'
+p924
+asI216
+(lp925
+S'major'
+p926
+aS'Exceptions in RunOARecon.exe without ECALrecon'
+p927
+aS'RESOLVED'
+p928
+aS'oaRecon'
+p929
+aS'2010-11-20 18:40 '
+p930
+aS'2011-03-04 01:34:36'
+p931
+asI729
+(lp932
+S'minor'
+p933
+aS'EcalFGD matching fails for some events'
+p934
+aS'NEW'
+p935
+aS'oaRecPack'
+p936
+aS'2012-07-10 04:34 '
+p937
+aS'2012-07-10 12:49:22'
+p938
+asI218
+(lp939
+S'enhancement'
+p940
+aS'Error in TP0DShareCharge.cxx during RunOArecon.exe'
+p941
+aS'RESOLVED'
+p942
+aS'oaRecon'
+p943
+aS'2010-11-20 18:44 '
+p944
+aS'2010-11-20 19:13:53'
+p945
+asI731
+(lp946
+S'critical'
+p947
+aS'P0D incremental matching modifies tracker objects'
+p948
+aS'RESOLVED'
+p949
+aS'p0dRecon'
+p950
+aS'2012-07-13 07:04 '
+p951
+aS'2012-07-13 19:28:41'
+p952
+asI634
+(lp953
+S'major'
+p954
+aS'TECALPidVarCalc causes segmentation fault for run 7705-0085'
+p955
+aS'RESOLVED'
+p956
+aS'ecalRecon'
+p957
+aS'2012-03-12 08:22 '
+p958
+aS'2012-07-06 03:41:20'
+p959
+asI737
+(lp960
+S'major'
+p961
+aS'Incorrect Detector bit for p0decal objects'
+p962
+aS'RESOLVED'
+p963
+aS'oaRecPack'
+p964
+aS'2012-07-13 07:15 '
+p965
+aS'2012-07-13 07:22:22'
+p966
+asI229
+(lp967
+S'physics-issue'
+p968
+aS'SBCAT misses TPC tracks'
+p969
+aS'RESOLVED'
+p970
+aS'tpcRecon'
+p971
+aS'2010-12-07 23:50 '
+p972
+aS'2012-06-01 14:07:25'
+p973
+asI742
+(lp974
+S'minor'
+p975
+aS'TP0DECALCreatePid.cxx uses std::cout'
+p976
+aS'RESOLVED'
+p977
+aS'p0decalRecon'
+p978
+aS'2012-07-13 20:56 '
+p979
+aS'2012-07-18 00:23:27'
+p980
+asI743
+(lp981
+S'critical'
+p982
+aS'Memory leak caused by misuse of THandles of THits in nd280Recon summer freeze'
+p983
+aS'RESOLVED'
+p984
+aS'smrdRecon'
+p985
+aS'2012-07-13 22:07 '
+p986
+aS'2012-07-19 16:56:34'
+p987
+asI744
+(lp988
+S'critical'
+p989
+aS'oaRecPack incorrectly treats &gt;1 hit clusters when converting to measurements [summer freeze]'
+p990
+aS'RESOLVED'
+p991
+aS'ecalRecon'
+p992
+aS'2012-07-14 07:26 '
+p993
+aS'2012-07-25 07:05:40'
+p994
+asI124
+(lp995
+S'enhancement'
+p996
+aS'Need standard method for calculating and storing FGD track times'
+p997
+aS'RESOLVED'
+p998
+aS'fgdRecon'
+p999
+aS'2010-08-12 17:38 '
+p1000
+aS'2011-02-13 23:07:07'
+p1001
+asI746
+(lp1002
+S'enhancement'
+p1003
+aS'RecPack throwing SIGABRT [summer freeze]'
+p1004
+aS'ASSIGNED'
+p1005
+aS'RECPACK'
+p1006
+aS'2012-07-15 21:51 '
+p1007
+aS'2012-09-06 19:36:45'
+p1008
+asI235
+(lp1009
+S'major'
+p1010
+aS'TPC1 tracks get T0 from P0D --&gt; failure in tracker matching'
+p1011
+aS'RESOLVED'
+p1012
+aS'tpcRecon'
+p1013
+aS'2010-12-10 23:44 '
+p1014
+aS'2011-01-18 09:55:48'
+p1015
+asI748
+(lp1016
+S'major'
+p1017
+aS'p0decalRecon sets incorrect time stamps for the track nodes [summer freeze]'
+p1018
+aS'RESOLVED'
+p1019
+aS'p0decalRecon'
+p1020
+aS'2012-07-17 10:10 '
+p1021
+aS'2012-07-19 08:30:42'
+p1022
+asI749
+(lp1023
+S'critical'
+p1024
+aS'ECAL Clusters inside Nodes are INCOMPLETE [summer freeze]'
+p1025
+aS'RESOLVED'
+p1026
+aS'ecalRecon'
+p1027
+aS'2012-07-18 09:31 '
+p1028
+aS'2012-07-24 18:24:50'
+p1029
+asI381
+(lp1030
+S'minor'
+p1031
+aS'DsECAL recon objects have too many single-ended hits for FGD-triggered cosmics'
+p1032
+aS'NEW'
+p1033
+aS'ecalRecon'
+p1034
+aS'2011-05-04 15:45 '
+p1035
+aS'2012-07-30 20:50:09'
+p1036
+asI752
+(lp1037
+S'major'
+p1038
+aS'ECal-FGD incremental matching causing many SIGABRTs [summer freeze]'
+p1039
+aS'RESOLVED'
+p1040
+aS'ecalRecon'
+p1041
+aS'2012-07-19 16:39 '
+p1042
+aS'2012-07-24 18:26:50'
+p1043
+asI241
+(lp1044
+S'minor'
+p1045
+aS'RecPackGeometry.cxx Segfaults for geometries that do not contain FGDs or SMRDs'
+p1046
+aS'RESOLVED'
+p1047
+aS'oaRecPack'
+p1048
+aS'2010-12-16 23:10 '
+p1049
+aS'2011-01-19 15:34:14'
+p1050
+asI242
+(lp1051
+S'minor'
+p1052
+aS'RunOARecon segfaults for DsECal only geometries'
+p1053
+aS'RESOLVED'
+p1054
+aS'tpcRecon'
+p1055
+aS'2010-12-16 23:18 '
+p1056
+aS'2011-01-20 10:28:32'
+p1057
+asI755
+(lp1058
+S'enhancement'
+p1059
+aS'Invalid Fill commands in app/TestMatchingEfficiency.cxx'
+p1060
+aS'RESOLVED'
+p1061
+aS'fgdRecon'
+p1062
+aS'2012-07-22 23:38 '
+p1063
+aS'2012-07-26 15:55:22'
+p1064
+asI809
+(lp1065
+S'minor'
+p1066
+aS'TP0DPdfDistribution exits on error.'
+p1067
+aS'RESOLVED'
+p1068
+aS'p0dRecon'
+p1069
+aS'2012-10-16 11:40 '
+p1070
+aS'2013-01-09 07:25:42'
+p1071
+asI763
+(lp1072
+S'minor'
+p1073
+aS'TPC nodes are incomplete'
+p1074
+aS'NEW'
+p1075
+aS'tpcRecon'
+p1076
+aS'2012-07-26 01:11 '
+p1077
+aS'2012-09-27 00:40:46'
+p1078
+asI764
+(lp1079
+S'major'
+p1080
+aS"oaRecon doesn't check P0D result exists before accessing pointer"
+p1081
+aS'NEW'
+p1082
+aS'oaRecon'
+p1083
+aS'2012-07-26 07:16 '
+p1084
+aS'2012-09-05 01:41:37'
+p1085
+asI253
+(lp1086
+S'enhancement'
+p1087
+aS'Node ordering'
+p1088
+aS'RESOLVED'
+p1089
+aS'trackerRecon'
+p1090
+aS'2010-12-21 08:12 '
+p1091
+aS'2013-01-17 20:51:02'
+p1092
+asI254
+(lp1093
+S'enhancement'
+p1094
+aS'TPC tracks represented in their full length'
+p1095
+aS'NEW'
+p1096
+aS'trackerRecon'
+p1097
+aS'2010-12-21 08:15 '
+p1098
+aS'2011-02-11 11:56:33'
+p1099
+asI213
+(lp1100
+S'minor'
+p1101
+aS'Patch to make p0dRecon build without warnings'
+p1102
+aS'RESOLVED'
+p1103
+aS'p0dRecon'
+p1104
+aS'2010-11-19 09:05 '
+p1105
+aS'2010-12-08 03:37:17'
+p1106
+asI768
+(lp1107
+S'critical'
+p1108
+aS'The detector bit for YZ nodes from the barrel ECal is not set [summer freeze]'
+p1109
+aS'RESOLVED'
+p1110
+aS'ecalRecon'
+p1111
+aS'2012-07-27 15:16 '
+p1112
+aS'2012-07-30 01:27:39'
+p1113
+asI571
+(lp1114
+S'minor'
+p1115
+aS'ecalRecon failures on basket 4b cali files'
+p1116
+aS'RESOLVED'
+p1117
+aS'ecalRecon'
+p1118
+aS'2012-01-17 00:45 '
+p1119
+aS'2012-01-19 22:48:36'
+p1120
+asI771
+(lp1121
+S'enhancement'
+p1122
+aS'Redeclartion of variable causes compilation to fail w/ g++ 4.7'
+p1123
+aS'RESOLVED'
+p1124
+aS'tpcRecon'
+p1125
+aS'2012-08-01 22:28 '
+p1126
+aS'2012-08-02 11:25:22'
+p1127
+asI772
+(lp1128
+S'enhancement'
+p1129
+aS'Redeclartion of variable causes compilation to fail w/ g++ 4.7'
+p1130
+aS'RESOLVED'
+p1131
+aS'ecalRecon'
+p1132
+aS'2012-08-01 23:57 '
+p1133
+aS'2012-10-14 15:49:30'
+p1134
+asI773
+(lp1135
+S'enhancement'
+p1136
+aS'Redeclartion of variable causes compilation to fail w/ g++ 4.7'
+p1137
+aS'NEW'
+p1138
+aS'p0decalRecon'
+p1139
+aS'2012-08-02 00:04 '
+p1140
+aS'2012-08-02 03:57:36'
+p1141
+asI827
+(lp1142
+S'minor'
+p1143
+aS'TP0DTrackerMatcherIncremental not running'
+p1144
+aS'RESOLVED'
+p1145
+aS'p0dRecon'
+p1146
+aS'2012-11-23 08:49 '
+p1147
+aS'2013-01-15 12:44:31'
+p1148
+asI727
+(lp1149
+S'minor'
+p1150
+aS'ecalRecon 3D matching seeded likelihood uses information from different number of layers in each view'
+p1151
+aS'RESOLVED'
+p1152
+aS'ecalRecon'
+p1153
+aS'2012-07-09 20:19 '
+p1154
+aS'2012-07-09 20:21:22'
+p1155
+asI268
+(lp1156
+S'enhancement'
+p1157
+aS'Need to fix dealing with surfaces for state vectors out of geometry.'
+p1158
+aS'NEW'
+p1159
+aS'RECPACK'
+p1160
+aS'2011-01-18 03:59 '
+p1161
+aS'2011-09-05 04:36:06'
+p1162
+asI269
+(lp1163
+S'enhancement'
+p1164
+aS'Need a function to check if the track had left its own detector'
+p1165
+aS'RESOLVED'
+p1166
+aS'oaRecPack'
+p1167
+aS'2011-01-18 04:03 '
+p1168
+aS'2012-03-01 20:50:06'
+p1169
+asI270
+(lp1170
+S'enhancement'
+p1171
+aS'Need to refit isolated tracks with RECPACK.'
+p1172
+aS'RESOLVED'
+p1173
+aS'smrdRecon'
+p1174
+aS'2011-01-18 04:07 '
+p1175
+aS'2011-02-02 01:27:14'
+p1176
+asI813
+(lp1177
+S'critical'
+p1178
+aS'Memory leak in nd280Recon v2r15'
+p1179
+aS'RESOLVED'
+p1180
+aS'p0dRecon'
+p1181
+aS'2012-10-22 02:29 '
+p1182
+aS'2013-01-09 07:27:12'
+p1183
+asI785
+(lp1184
+S'major'
+p1185
+aS'P0DRecon does not correct the time of nodes for light propagation'
+p1186
+aS'RESOLVED'
+p1187
+aS'p0dRecon'
+p1188
+aS'2012-08-31 07:21 '
+p1189
+aS'2013-01-09 06:26:41'
+p1190
+asI786
+(lp1191
+S'major'
+p1192
+aS'fgdRecon crashes *new* *stable* recon'
+p1193
+aS'RESOLVED'
+p1194
+aS'fgdRecon'
+p1195
+aS'2012-09-03 01:17 '
+p1196
+aS'2012-09-03 10:39:31'
+p1197
+asI787
+(lp1198
+S'critical'
+p1199
+aS'ECAL nodes can be outside the ECAL volume'
+p1200
+aS'RESOLVED'
+p1201
+aS'ecalRecon'
+p1202
+aS'2012-09-05 23:26 '
+p1203
+aS'2012-09-06 01:44:10'
+p1204
+asI276
+(lp1205
+S'minor'
+p1206
+aS'RECPACK v1r16 does not build under gcc4'
+p1207
+aS'RESOLVED'
+p1208
+aS'RECPACK'
+p1209
+aS'2011-01-25 02:19 '
+p1210
+aS'2011-02-14 00:49:49'
+p1211
+asI789
+(lp1212
+S'minor'
+p1213
+aS'ecalRecon can reconstruct showers outside the ECal volume'
+p1214
+aS'RESOLVED'
+p1215
+aS'ecalRecon'
+p1216
+aS'2012-09-13 22:53 '
+p1217
+aS'2012-09-14 00:33:13'
+p1218
+asI278
+(lp1219
+S'minor'
+p1220
+aS'OARecon aborting in RECPACK'
+p1221
+aS'RESOLVED'
+p1222
+aS'RECPACK'
+p1223
+aS'2011-01-26 08:14 '
+p1224
+aS'2011-02-24 14:07:30'
+p1225
+asI217
+(lp1226
+S'enhancement'
+p1227
+aS'RunOArecon.exe asks to &quot;VERIFY STEP SIZES AND CHECK FCN LOGIC&quot;'
+p1228
+aS'RESOLVED'
+p1229
+aS'tpcRecon'
+p1230
+aS'2010-11-20 18:42 '
+p1231
+aS'2012-07-16 10:06:58'
+p1232
+asI644
+(lp1233
+S'minor'
+p1234
+aS'Duplicated TPC objects'
+p1235
+aS'RESOLVED'
+p1236
+aS'tpcRecon'
+p1237
+aS'2012-03-17 23:26 '
+p1238
+aS'2012-07-16 09:50:13'
+p1239
+asI794
+(lp1240
+S'minor'
+p1241
+aS'Finalize(TND280Output&amp; ) method is deprecated'
+p1242
+aS'NEW'
+p1243
+aS'smrdRecon'
+p1244
+aS'2012-09-24 23:29 '
+p1245
+aS'2012-09-25 00:26:07'
+p1246
+asI730
+(lp1247
+S'minor'
+p1248
+aS'ECal Likelihood PID Interpolation Erroneously Switched Off'
+p1249
+aS'RESOLVED'
+p1250
+aS'ecalRecon'
+p1251
+aS'2012-07-11 08:56 '
+p1252
+aS'2012-07-11 09:11:01'
+p1253
+asI798
+(lp1254
+S'minor'
+p1255
+aS'Finalize(TND280Output&amp; ) method is deprecated'
+p1256
+aS'RESOLVED'
+p1257
+aS'tpcRecon'
+p1258
+aS'2012-09-24 23:31 '
+p1259
+aS'2012-09-24 23:52:01'
+p1260
+asI799
+(lp1261
+S'minor'
+p1262
+aS'Finalize(TND280Output&amp; ) method is deprecated'
+p1263
+aS'RESOLVED'
+p1264
+aS'ecalRecon'
+p1265
+aS'2012-09-24 23:31 '
+p1266
+aS'2012-09-24 23:41:53'
+p1267
+asI290
+(lp1268
+S'minor'
+p1269
+aS'basicStudy.cxx/RunTrackerReconEventDisplayBash.cxx access geometry in BeginFile'
+p1270
+aS'RESOLVED'
+p1271
+aS'trackerRecon'
+p1272
+aS'2011-02-06 09:35 '
+p1273
+aS'2011-02-18 11:26:53'
+p1274
+asI803
+(lp1275
+S'minor'
+p1276
+aS'Modify the flatness criteria for TPC-FGD matching  [production-5]'
+p1277
+aS'NEW'
+p1278
+aS'fgdRecon'
+p1279
+aS'2012-09-26 19:48 '
+p1280
+aS'2012-09-26 19:48:23'
+p1281
+asI134
+(lp1282
+S'major'
+p1283
+aS'P0D Kalman Fit has a hardcoded momentum of 700 MeV'
+p1284
+aS'RESOLVED'
+p1285
+aS'p0dRecon'
+p1286
+aS'2010-08-17 23:42 '
+p1287
+aS'2010-09-19 08:20:59'
+p1288
+asI294
+(lp1289
+S'major'
+p1290
+aS'p0dRecon make test fails on the buildbot.'
+p1291
+aS'RESOLVED'
+p1292
+aS'p0dRecon'
+p1293
+aS'2011-02-08 03:35 '
+p1294
+aS'2011-04-15 11:48:07'
+p1295
+asI808
+(lp1296
+S'minor'
+p1297
+aS'TP0DParticleIdApp is leaking memory'
+p1298
+aS'RESOLVED'
+p1299
+aS'p0dRecon'
+p1300
+aS'2012-10-15 06:40 '
+p1301
+aS'2012-10-17 11:06:10'
+p1302
+asI297
+(lp1303
+S'major'
+p1304
+aS'Global recon matching is failing because of switched track directions'
+p1305
+aS'RESOLVED'
+p1306
+aS'oaRecon'
+p1307
+aS'2011-02-09 17:58 '
+p1308
+aS'2011-02-24 14:09:57'
+p1309
+asI812
+(lp1310
+S'physics-issue'
+p1311
+aS'P0D Track PID treats EM exiting through CECal and sides the same.'
+p1312
+aS'RESOLVED'
+p1313
+aS'p0dRecon'
+p1314
+aS'2012-10-19 05:36 '
+p1315
+aS'2013-01-09 06:35:02'
+p1316
+asI50
+(lp1317
+S'major'
+p1318
+aS'TP0DShowerCluster saves wrong hits'
+p1319
+aS'RESOLVED'
+p1320
+aS'p0dRecon'
+p1321
+aS'2010-04-07 09:15 '
+p1322
+aS'2010-04-07 15:26:20'
+p1323
+asI302
+(lp1324
+S'minor'
+p1325
+aS'Compiler warnings due to hidden TObject::Print'
+p1326
+aS'RESOLVED'
+p1327
+aS'tpcRecon'
+p1328
+aS'2011-02-13 17:42 '
+p1329
+aS'2011-07-24 20:34:13'
+p1330
+asI303
+(lp1331
+S'critical-production'
+p1332
+aS'RunOARecon Seg Faults'
+p1333
+aS'RESOLVED'
+p1334
+aS'oaRecon'
+p1335
+aS'2011-02-13 22:55 '
+p1336
+aS'2011-02-14 09:58:38'
+p1337
+asI817
+(lp1338
+S'enhancement'
+p1339
+aS'oaRecPack and RECPACK both implement class Recpack::RootSetup'
+p1340
+aS'NEW'
+p1341
+aS'oaRecPack'
+p1342
+aS'2012-11-05 21:52 '
+p1343
+aS'2012-11-07 22:11:16'
+p1344
+asI819
+(lp1345
+S'major'
+p1346
+aS'P0D Track PID uses output of the TP0DExpandSeeds algorithm'
+p1347
+aS'RESOLVED'
+p1348
+aS'p0dRecon'
+p1349
+aS'2012-11-12 08:44 '
+p1350
+aS'2013-01-09 06:31:17'
+p1351
+asI826
+(lp1352
+S'major'
+p1353
+aS'Missing version definition'
+p1354
+aS'NEW'
+p1355
+aS'oaRecPack'
+p1356
+aS'2012-11-23 06:45 '
+p1357
+aS'2013-01-07 06:41:12'
+p1358
+asI315
+(lp1359
+S'critical-production'
+p1360
+aS'p0dRecon needs regenerated PID PDFs and a patch freeze'
+p1361
+aS'RESOLVED'
+p1362
+aS'p0dRecon'
+p1363
+aS'2011-02-20 13:23 '
+p1364
+aS'2011-02-23 07:44:09'
+p1365
+asI317
+(lp1366
+S'major'
+p1367
+aS'Integer division in TFgdIsoRecon -&gt; crash on OS X'
+p1368
+aS'RESOLVED'
+p1369
+aS'fgdRecon'
+p1370
+aS'2011-02-21 12:27 '
+p1371
+aS'2011-02-21 14:05:58'
+p1372
+asI318
+(lp1373
+S'critical'
+p1374
+aS'RunOARecon Crashes: Fatal: IsValid() violated'
+p1375
+aS'RESOLVED'
+p1376
+aS'oaRecon'
+p1377
+aS'2011-02-21 16:03 '
+p1378
+aS'2011-02-25 10:34:51'
+p1379
+asI321
+(lp1380
+S'major'
+p1381
+aS'RunOARecon seg-fault because of &quot;ancestor volume not in setup&quot; error from TTrackerKalmanVertex/RECPACK'
+p1382
+aS'RESOLVED'
+p1383
+aS'oaRecPack'
+p1384
+aS'2011-02-25 10:33 '
+p1385
+aS'2011-09-05 02:59:09'
+p1386
+asI322
+(lp1387
+S'major'
+p1388
+aS'List of oaRecon Error Messages'
+p1389
+aS'NEW'
+p1390
+aS'oaRecon'
+p1391
+aS'2011-02-25 16:33 '
+p1392
+aS'2012-03-09 07:54:09'
+p1393
+asI323
+(lp1394
+S'critical-production'
+p1395
+aS'ecalRecon output causing event loop seg faults'
+p1396
+aS'RESOLVED'
+p1397
+aS'ecalRecon'
+p1398
+aS'2011-02-27 11:59 '
+p1399
+aS'2011-02-28 04:59:38'
+p1400
+asI324
+(lp1401
+S'minor'
+p1402
+aS'TECALLoadAlgorithms accesses parameters before an override file has been set'
+p1403
+aS'RESOLVED'
+p1404
+aS'ecalRecon'
+p1405
+aS'2011-02-27 20:38 '
+p1406
+aS'2011-03-02 00:01:21'
+p1407
+asI839
+(lp1408
+S'critical'
+p1409
+aS'using namespace Recpack in header files'
+p1410
+aS'NEW'
+p1411
+aS'oaRecPack'
+p1412
+aS'2012-12-20 23:40 '
+p1413
+aS'2012-12-20 23:55:03'
+p1414
+asI840
+(lp1415
+S'critical'
+p1416
+aS'using namespace Recpack in header file'
+p1417
+aS'REOPENED'
+p1418
+aS'fgdRecon'
+p1419
+aS'2012-12-20 23:44 '
+p1420
+aS'2013-01-30 06:24:24'
+p1421
+asI841
+(lp1422
+S'major'
+p1423
+aS"Track PID doesn't use charge attenuation correction"
+p1424
+aS'RESOLVED'
+p1425
+aS'p0dRecon'
+p1426
+aS'2012-12-22 08:39 '
+p1427
+aS'2013-01-09 06:34:31'
+p1428
+asI843
+(lp1429
+S'physics-issue'
+p1430
+aS'tpcclean is never set in TestFgdTpcMatching'
+p1431
+aS'NEW'
+p1432
+aS'fgdRecon'
+p1433
+aS'2013-01-01 13:46 '
+p1434
+aS'2013-01-01 13:46:56'
+p1435
+asI848
+(lp1436
+S'minor'
+p1437
+aS'Negative Track Length'
+p1438
+aS'RESOLVED'
+p1439
+aS'trackerRecon'
+p1440
+aS'2013-01-04 02:37 '
+p1441
+aS'2013-01-28 02:30:23'
+p1442
+asI568
+(lp1443
+S'major'
+p1444
+aS'failures in ecalRecon (oaGeomInfo related)'
+p1445
+aS'RESOLVED'
+p1446
+aS'ecalRecon'
+p1447
+aS'2012-01-14 00:56 '
+p1448
+aS'2012-01-16 01:47:08'
+p1449
+asI338
+(lp1450
+S'minor'
+p1451
+aS"p0dRecon is failing its 'make check' regression tests"
+p1452
+aS'RESOLVED'
+p1453
+aS'p0dRecon'
+p1454
+aS'2011-03-16 11:26 '
+p1455
+aS'2011-04-15 11:31:30'
+p1456
+asI339
+(lp1457
+S'minor'
+p1458
+aS"fgdRecon is failing its 'make check' regression tests"
+p1459
+aS'RESOLVED'
+p1460
+aS'fgdRecon'
+p1461
+aS'2011-03-16 11:41 '
+p1462
+aS'2011-04-04 09:12:21'
+p1463
+asI341
+(lp1464
+S'critical'
+p1465
+aS'SMRD Incremental matching is downgrading resulting objects from TReconPIDs to TReconTracks'
+p1466
+aS'RESOLVED'
+p1467
+aS'oaRecon'
+p1468
+aS'2011-03-16 15:56 '
+p1469
+aS'2011-03-25 14:23:44'
+p1470
+asI343
+(lp1471
+S'major'
+p1472
+aS'P0D-ECAL PIDs are not getting used or matched in global reconstruction'
+p1473
+aS'RESOLVED'
+p1474
+aS'oaRecon'
+p1475
+aS'2011-03-18 23:40 '
+p1476
+aS'2012-07-25 07:09:20'
+p1477
+asI856
+(lp1478
+S'minor'
+p1479
+aS"Track length calculation doesn't work for TPC tracks"
+p1480
+aS'NEW'
+p1481
+aS'oaRecPack'
+p1482
+aS'2013-01-23 23:02 '
+p1483
+aS'2013-01-23 23:13:12'
+p1484
+asI858
+(lp1485
+S'major'
+p1486
+aS'MergeObjects functionality doesn`t allow now to merge objects of different types'
+p1487
+aS'NEW'
+p1488
+aS'oaRecPack'
+p1489
+aS'2013-01-27 23:17 '
+p1490
+aS'2013-01-27 23:17:45'
+p1491
+asI859
+(lp1492
+S'minor'
+p1493
+aS'Basic clustering behaviour'
+p1494
+aS'NEW'
+p1495
+aS'ecalRecon'
+p1496
+aS'2013-01-30 05:53 '
+p1497
+aS'2013-01-30 05:53:37'
+p1498
+asI58
+(lp1499
+S'major'
+p1500
+aS'smrdRecon memory leak'
+p1501
+aS'RESOLVED'
+p1502
+aS'smrdRecon'
+p1503
+aS'2010-04-09 08:46 '
+p1504
+aS'2010-04-11 02:36:19'
+p1505
+asI350
+(lp1506
+S'critical'
+p1507
+aS'TRACKER tracks used TWICE when matching to SMRD'
+p1508
+aS'RESOLVED'
+p1509
+aS'smrdRecon'
+p1510
+aS'2011-03-23 14:48 '
+p1511
+aS'2011-03-25 09:48:04'
+p1512
+asI351
+(lp1513
+S'critical'
+p1514
+aS'Single TPC tracker PIDs from trackerRecon do not include energy loss corrections.'
+p1515
+aS'RESOLVED'
+p1516
+aS'trackerRecon'
+p1517
+aS'2011-03-23 15:34 '
+p1518
+aS'2011-03-25 09:49:56'
+p1519
+asI354
+(lp1520
+S'major'
+p1521
+aS'oaRecon Seg. Faults (--:WARNING: ancestor volume not in setup)'
+p1522
+aS'RESOLVED'
+p1523
+aS'oaRecon'
+p1524
+aS'2011-03-27 06:18 '
+p1525
+aS'2011-09-05 02:58:49'
+p1526
+asI355
+(lp1527
+S'critical'
+p1528
+aS'p0dRecon v7r3p7 is missing p0dRecon-v7r3 PID PDFs'
+p1529
+aS'RESOLVED'
+p1530
+aS'p0dRecon'
+p1531
+aS'2011-03-27 19:44 '
+p1532
+aS'2011-03-29 15:02:20'
+p1533
+asI766
+(lp1534
+S'major'
+p1535
+aS'Nodes are not filled for p0decal PIDs created from TReconTracks [summer freeze]'
+p1536
+aS'RESOLVED'
+p1537
+aS'p0decalRecon'
+p1538
+aS'2012-07-26 21:48 '
+p1539
+aS'2012-07-29 23:22:30'
+p1540
+asI60
+(lp1541
+S'major'
+p1542
+aS'ecalRecon PCA fitter passes uninitialized data to ROOT.'
+p1543
+aS'RESOLVED'
+p1544
+aS'ecalRecon'
+p1545
+aS'2010-04-09 15:22 '
+p1546
+aS'2011-04-18 05:26:54'
+p1547
+asI362
+(lp1548
+S'major'
+p1549
+aS'Use of TOAReconUtils::CopyObjects discards TRealDatums attached to TReconBase objects'
+p1550
+aS'RESOLVED'
+p1551
+aS'oaRecon'
+p1552
+aS'2011-04-06 13:30 '
+p1553
+aS'2011-05-06 11:36:17'
+p1554
+asI231
+(lp1555
+S'major'
+p1556
+aS'TP0DAttenuationCurve does not properly apply attenuation'
+p1557
+aS'RESOLVED'
+p1558
+aS'p0dRecon'
+p1559
+aS'2010-12-09 18:31 '
+p1560
+aS'2012-09-05 06:39:11'
+p1561
+asI146
+(lp1562
+S'enhancement'
+p1563
+aS'smrdCalib depends explicitly on oaEvent 7'
+p1564
+aS'RESOLVED'
+p1565
+aS'smrdRecon'
+p1566
+aS'2010-08-18 02:27 '
+p1567
+aS'2010-08-18 11:20:28'
+p1568
+asI366
+(lp1569
+S'major'
+p1570
+aS'Biases in global momentum estimate for PIDs using SMRD'
+p1571
+aS'RESOLVED'
+p1572
+aS'smrdRecon'
+p1573
+aS'2011-04-12 01:32 '
+p1574
+aS'2012-03-01 20:40:35'
+p1575
+asI573
+(lp1576
+S'minor'
+p1577
+aS'Integer overflow in TOAReconUtils'
+p1578
+aS'RESOLVED'
+p1579
+aS'oaRecon'
+p1580
+aS'2012-01-18 02:15 '
+p1581
+aS'2012-01-18 02:15:29'
+p1582
+asI370
+(lp1583
+S'minor'
+p1584
+aS'P0D reconstruction is choking on run 7618 events with noisy RMM4.'
+p1585
+aS'RESOLVED'
+p1586
+aS'p0dRecon'
+p1587
+aS'2011-04-13 11:20 '
+p1588
+aS'2011-04-14 12:12:15'
+p1589
+asI63
+(lp1590
+S'minor'
+p1591
+aS'Use after free in TECALBasicClustering'
+p1592
+aS'RESOLVED'
+p1593
+aS'ecalRecon'
+p1594
+aS'2010-04-09 15:55 '
+p1595
+aS'2010-04-09 19:00:33'
+p1596
+asI234
+(lp1597
+S'enhancement'
+p1598
+aS'P0D tracks have wrong NDOF --&gt; matching with POD always fails'
+p1599
+aS'RESOLVED'
+p1600
+aS'p0dRecon'
+p1601
+aS'2010-12-10 23:20 '
+p1602
+aS'2013-01-09 07:30:05'
+p1603
+asI747
+(lp1604
+S'critical'
+p1605
+aS"Recpack::MatchingSvc::compute_length doesn't correctly handle trajectories with no fitted nodes [summer freeze]"
+p1606
+aS'RESOLVED'
+p1607
+aS'RECPACK'
+p1608
+aS'2012-07-17 01:38 '
+p1609
+aS'2012-07-19 03:46:51'
+p1610
+asI698
+(lp1611
+S'minor'
+p1612
+aS'ecalRecon relies on Recpack identifiers in global namespace'
+p1613
+aS'RESOLVED'
+p1614
+aS'ecalRecon'
+p1615
+aS'2012-06-17 23:58 '
+p1616
+aS'2012-07-29 22:38:17'
+p1617
+asI833
+(lp1618
+S'critical'
+p1619
+aS'New Reconstruction does not run on Data'
+p1620
+aS'RESOLVED'
+p1621
+aS'oaRecPack'
+p1622
+aS'2012-12-12 02:44 '
+p1623
+aS'2012-12-12 10:33:01'
+p1624
+asI393
+(lp1625
+S'minor'
+p1626
+aS'P0D reconstruction producing different number of TReconPIDs in final container for run 7672-45, event 249312'
+p1627
+aS'RESOLVED'
+p1628
+aS'p0dRecon'
+p1629
+aS'2011-05-16 14:54 '
+p1630
+aS'2012-09-05 06:43:20'
+p1631
+asI394
+(lp1632
+S'minor'
+p1633
+aS'p0dEcal object are not matched to P0D objects'
+p1634
+aS'ASSIGNED'
+p1635
+aS'p0decalRecon'
+p1636
+aS'2011-05-16 22:44 '
+p1637
+aS'2011-09-05 04:18:58'
+p1638
+asI395
+(lp1639
+S'enhancement'
+p1640
+aS'Problem with B-field for extrapolation in oaRecPack'
+p1641
+aS'NEW'
+p1642
+aS'oaRecPack'
+p1643
+aS'2011-05-18 17:19 '
+p1644
+aS'2012-07-25 09:05:13'
+p1645
+asI397
+(lp1646
+S'major'
+p1647
+aS'Reminder: tpcRecon uses depricated code'
+p1648
+aS'RESOLVED'
+p1649
+aS'tpcRecon'
+p1650
+aS'2011-05-18 18:11 '
+p1651
+aS'2011-11-01 14:10:55'
+p1652
+asI814
+(lp1653
+S'minor'
+p1654
+aS'TP0DIncrementalMatching produces output on every event.'
+p1655
+aS'RESOLVED'
+p1656
+aS'p0dRecon'
+p1657
+aS'2012-10-22 06:21 '
+p1658
+aS'2013-01-09 06:30:16'
+p1659
+asI401
+(lp1660
+S'major'
+p1661
+aS'Fails to define between two simultaneous tracks also in incorrect location'
+p1662
+aS'RESOLVED'
+p1663
+aS'ecalRecon'
+p1664
+aS'2011-05-24 05:09 '
+p1665
+aS'2011-06-29 01:13:21'
+p1666
+asI403
+(lp1667
+S'critical'
+p1668
+aS'oaRecon accidently makes an extra copy of all ECAL hits'
+p1669
+aS'RESOLVED'
+p1670
+aS'oaRecon'
+p1671
+aS'2011-05-26 11:25 '
+p1672
+aS'2011-09-22 08:05:03'
+p1673
+asI751
+(lp1674
+S'critical'
+p1675
+aS'P0D cluster filled without a measurement'
+p1676
+aS'RESOLVED'
+p1677
+aS'p0dRecon'
+p1678
+aS'2012-07-19 15:38 '
+p1679
+aS'2012-07-26 12:06:27'
+p1680
+asI412
+(lp1681
+S'minor'
+p1682
+aS'TECalBarGeom needs removing'
+p1683
+aS'RESOLVED'
+p1684
+aS'ecalRecon'
+p1685
+aS'2011-06-20 03:48 '
+p1686
+aS'2011-10-18 08:09:27'
+p1687
+asI154
+(lp1688
+S'major'
+p1689
+aS'TP0DTrackSeed allows gaps in the seed'
+p1690
+aS'RESOLVED'
+p1691
+aS'p0dRecon'
+p1692
+aS'2010-08-26 14:08 '
+p1693
+aS'2010-09-19 08:16:47'
+p1694
+asI415
+(lp1695
+S'minor'
+p1696
+aS'0.34% of TPC tracks do not have the detector bit correctly set in MCP4B.'
+p1697
+aS'RESOLVED'
+p1698
+aS'tpcRecon'
+p1699
+aS'2011-06-21 13:42 '
+p1700
+aS'2012-02-27 16:36:26'
+p1701
+asI418
+(lp1702
+S'critical'
+p1703
+aS'ecalRecon  ThrustFitNew can go into infinite loop'
+p1704
+aS'RESOLVED'
+p1705
+aS'ecalRecon'
+p1706
+aS'2011-06-30 01:04 '
+p1707
+aS'2011-06-30 04:34:33'
+p1708
+asI419
+(lp1709
+S'enhancement'
+p1710
+aS'Fails to reconstruct two simultaneous muons'
+p1711
+aS'RESOLVED'
+p1712
+aS'ecalRecon'
+p1713
+aS'2011-07-05 03:47 '
+p1714
+aS'2011-07-07 07:36:44'
+p1715
+asI753
+(lp1716
+S'major'
+p1717
+aS'TPC-FGD objects with no constituents [summer freeze]'
+p1718
+aS'RESOLVED'
+p1719
+aS'oaRecPack'
+p1720
+aS'2012-07-20 00:44 '
+p1721
+aS'2012-07-25 07:20:03'
+p1722
+asI431
+(lp1723
+S'enhancement'
+p1724
+aS'Reconstructs two simultaneous tracks in incorrect corner of transecting bars'
+p1725
+aS'NEW'
+p1726
+aS'ecalRecon'
+p1727
+aS'2011-07-21 03:52 '
+p1728
+aS'2012-01-06 03:27:31'
+p1729
+asI328
+(lp1730
+S'major'
+p1731
+aS'Barrel ECAL re-fits in oaRecon are failing'
+p1732
+aS'RESOLVED'
+p1733
+aS'ecalRecon'
+p1734
+aS'2011-03-04 23:53 '
+p1735
+aS'2012-07-06 03:55:53'
+p1736
+asI435
+(lp1737
+S'minor'
+p1738
+aS'pointer comparisons instead of string comparisons in pidUtils.hxx'
+p1739
+aS'RESOLVED'
+p1740
+aS'fgdRecon'
+p1741
+aS'2011-07-21 19:50 '
+p1742
+aS'2011-08-02 10:58:51'
+p1743
+asI437
+(lp1744
+S'major'
+p1745
+aS'Segmentation fault in Recpack::IFitter::fit()'
+p1746
+aS'RESOLVED'
+p1747
+aS'RECPACK'
+p1748
+aS'2011-08-02 06:07 '
+p1749
+aS'2011-09-05 02:57:17'
+p1750
+asI331
+(lp1751
+S'major'
+p1752
+aS'ECAL track parameters are not correctly filled in ecalRecon'
+p1753
+aS'RESOLVED'
+p1754
+aS'ecalRecon'
+p1755
+aS'2011-03-08 08:35 '
+p1756
+aS'2011-05-04 04:10:11'
+p1757
+asI452
+(lp1758
+S'critical'
+p1759
+aS"p0decalRecon v0r19 doesn't compile with ecalRecon  v8r9"
+p1760
+aS'RESOLVED'
+p1761
+aS'p0decalRecon'
+p1762
+aS'2011-08-23 17:03 '
+p1763
+aS'2011-09-12 12:52:48'
+p1764
+asI453
+(lp1765
+S'major'
+p1766
+aS'validation scripts for ecalRecon v8r9 do not work'
+p1767
+aS'RESOLVED'
+p1768
+aS'ecalRecon'
+p1769
+aS'2011-08-25 09:35 '
+p1770
+aS'2011-11-08 02:07:25'
+p1771
+asI454
+(lp1772
+S'major'
+p1773
+aS'Tracker recon should not save objects where the combined kalman refit fails'
+p1774
+aS'RESOLVED'
+p1775
+aS'trackerRecon'
+p1776
+aS'2011-08-25 11:02 '
+p1777
+aS'2013-01-17 20:49:49'
+p1778
+asI455
+(lp1779
+S'critical'
+p1780
+aS'incorrect use of Setup::add_surface()'
+p1781
+aS'RESOLVED'
+p1782
+aS'oaRecPack'
+p1783
+aS'2011-08-26 09:51 '
+p1784
+aS'2011-09-05 03:01:39'
+p1785
+asI458
+(lp1786
+S'enhancement'
+p1787
+aS'Weird return behavior in RecPackConverters::get_volume_name'
+p1788
+aS'RESOLVED'
+p1789
+aS'oaRecPack'
+p1790
+aS'2011-09-07 00:06 '
+p1791
+aS'2011-09-07 02:28:27'
+p1792
+asI461
+(lp1793
+S'critical-production'
+p1794
+aS'P0DRecon reconstructs showers with no Node/s'
+p1795
+aS'RESOLVED'
+p1796
+aS'oaRecon'
+p1797
+aS'2011-09-12 08:36 '
+p1798
+aS'2012-05-14 16:29:19'
+p1799
+asI470
+(lp1800
+S'enhancement'
+p1801
+aS'Latest frozen version of oaRecPack does not compile'
+p1802
+aS'RESOLVED'
+p1803
+aS'oaRecPack'
+p1804
+aS'2011-09-23 18:12 '
+p1805
+aS'2011-12-08 11:08:03'
+p1806
+asI474
+(lp1807
+S'major'
+p1808
+aS'Converting to measurements should be treated carefully for SMRD and FGD'
+p1809
+aS'RESOLVED'
+p1810
+aS'oaRecPack'
+p1811
+aS'2011-09-23 23:11 '
+p1812
+aS'2012-03-01 20:43:24'
+p1813
+asI478
+(lp1814
+S'major'
+p1815
+aS'TTrackerNode momenta incorrectly sorted for backward-going tracks'
+p1816
+aS'RESOLVED'
+p1817
+aS'trackerRecon'
+p1818
+aS'2011-09-27 03:17 '
+p1819
+aS'2012-07-25 08:39:49'
+p1820
+asI80
+(lp1821
+S'minor'
+p1822
+aS'Public constructor(s) in singleton class(es)'
+p1823
+aS'RESOLVED'
+p1824
+aS'oaRecPack'
+p1825
+aS'2010-04-26 13:18 '
+p1826
+aS'2010-08-12 04:10:52'
+p1827
+asI482
+(lp1828
+S'major'
+p1829
+aS'trackerRecon results altered by ElecSim processing of identical g4mc files'
+p1830
+aS'RESOLVED'
+p1831
+aS'trackerRecon'
+p1832
+aS'2011-09-29 22:43 '
+p1833
+aS'2013-01-17 17:12:02'
+p1834
+asI251
+(lp1835
+S'enhancement'
+p1836
+aS'Covariance matrix for FGD iso tracks missing'
+p1837
+aS'RESOLVED'
+p1838
+aS'fgdRecon'
+p1839
+aS'2010-12-21 08:05 '
+p1840
+aS'2011-02-08 11:44:24'
+p1841
+asI484
+(lp1842
+S'minor'
+p1843
+aS'select_manager'
+p1844
+aS'RESOLVED'
+p1845
+aS'ecalRecon'
+p1846
+aS'2011-10-02 01:25 '
+p1847
+aS'2012-07-06 03:52:27'
+p1848
+asI685
+(lp1849
+S'enhancement'
+p1850
+aS'Add function to filter TReconCluster similar to FilterHit'
+p1851
+aS'RESOLVED'
+p1852
+aS'oaRecPack'
+p1853
+aS'2012-05-23 08:32 '
+p1854
+aS'2012-07-25 09:16:58'
+p1855
+asI487
+(lp1856
+S'enhancement'
+p1857
+aS'TP0DECALMVAbsMVAOutput.hxx refers to non-existent TP0DECALPidCalc.hxx'
+p1858
+aS'RESOLVED'
+p1859
+aS'p0decalRecon'
+p1860
+aS'2011-10-07 10:32 '
+p1861
+aS'2012-04-21 02:21:44'
+p1862
+asI488
+(lp1863
+S'major'
+p1864
+aS'Hits in first ecalRecon time bunch being ignored'
+p1865
+aS'RESOLVED'
+p1866
+aS'ecalRecon'
+p1867
+aS'2011-10-11 08:35 '
+p1868
+aS'2011-10-11 08:40:49'
+p1869
+asI252
+(lp1870
+S'enhancement'
+p1871
+aS'Path length charge correction'
+p1872
+aS'RESOLVED'
+p1873
+aS'fgdRecon'
+p1874
+aS'2010-12-21 08:07 '
+p1875
+aS'2012-06-01 14:32:55'
+p1876
+asI491
+(lp1877
+S'minor'
+p1878
+aS'Nodes of global PIDs with no state'
+p1879
+aS'RESOLVED'
+p1880
+aS'oaRecon'
+p1881
+aS'2011-10-12 03:11 '
+p1882
+aS'2012-03-12 00:18:36'
+p1883
+asI82
+(lp1884
+S'minor'
+p1885
+aS'Public constructor(s) in singleton class(es)'
+p1886
+aS'RESOLVED'
+p1887
+aS'smrdRecon'
+p1888
+aS'2010-04-26 13:21 '
+p1889
+aS'2010-10-20 14:31:15'
+p1890
+asI765
+(lp1891
+S'enhancement'
+p1892
+aS'Annoying debug messages in HelixModel.cxx and TTPCpid.cxx'
+p1893
+aS'RESOLVED'
+p1894
+aS'tpcRecon'
+p1895
+aS'2012-07-26 19:50 '
+p1896
+aS'2012-07-27 08:07:29'
+p1897
+asI496
+(lp1898
+S'enhancement'
+p1899
+aS'Add P0DReconParticle index to TP0DObject in Global Trk'
+p1900
+aS'NEW'
+p1901
+aS'oaRecon'
+p1902
+aS'2011-10-14 13:35 '
+p1903
+aS'2011-10-20 18:41:27'
+p1904
+asI498
+(lp1905
+S'minor'
+p1906
+aS'TECALDetermineHitPosition incorrectly sets unknown coordinate of certain hits'
+p1907
+aS'RESOLVED'
+p1908
+aS'ecalRecon'
+p1909
+aS'2011-10-20 10:08 '
+p1910
+aS'2012-09-15 09:21:18'
+p1911
+asI500
+(lp1912
+S'minor'
+p1913
+aS"TP0DTagMuonDecay doesn't check for invalid hit times"
+p1914
+aS'RESOLVED'
+p1915
+aS'p0dRecon'
+p1916
+aS'2011-10-25 12:20 '
+p1917
+aS'2011-10-26 21:35:50'
+p1918
+asI501
+(lp1919
+S'critical'
+p1920
+aS'Problem with the radiation length in oaRecPack geometry'
+p1921
+aS'RESOLVED'
+p1922
+aS'oaRecPack'
+p1923
+aS'2011-10-27 13:25 '
+p1924
+aS'2011-11-01 20:37:05'
+p1925
+asI503
+(lp1926
+S'minor'
+p1927
+aS'oaRecon head incorrectly uses Data Quality flags'
+p1928
+aS'NEW'
+p1929
+aS'oaRecon'
+p1930
+aS'2011-10-28 06:31 '
+p1931
+aS'2012-02-21 05:11:57'
+p1932
+asI767
+(lp1933
+S'minor'
+p1934
+aS'ecalRecon adds two RECPACK managers with same names'
+p1935
+aS'RESOLVED'
+p1936
+aS'ecalRecon'
+p1937
+aS'2012-07-27 05:07 '
+p1938
+aS'2012-07-29 22:27:15'
+p1939
+asI853
+(lp1940
+S'major'
+p1941
+aS'FGD-iso recon doesn`t fill time info for iso-objects` node clusters'
+p1942
+aS'RESOLVED'
+p1943
+aS'fgdRecon'
+p1944
+aS'2013-01-19 05:25 '
+p1945
+aS'2013-01-27 23:05:07'
+p1946
+as.

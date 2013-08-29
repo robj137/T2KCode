@@ -1,0 +1,87 @@
+61  ,  oaRecon        , Uninitialized memory passed into RecPack from TGlobalRecon
+67  ,  fgdRecon       , Error message: TFgdTpcMatcherIncremental::FindDetectorObjects:: FGD1/TPC2/FGD2 matching failed. WHOOPS, should never happen.
+118 ,  tpcRecon       , Bias in residuals along the drift distance (~200 um) in tpcRecon
+120 ,  tpcRecon       , Problems combining low-energy tracks which bend back on themselves in tpcRecon
+121 ,  tpcRecon       , Validation plots need to be validated in tpcRecon
+152 ,  RECPACK        , Warnings in RECPACK under gcc 4.5.0
+169 ,  oaRecPack      , TPC->FGD extrapolation fails for data with magnetic field off
+175 ,  tpcRecon       , 50% of tpcRecon time spent running TTPCt0::fitT0fromECAL
+217 ,  tpcRecon       , RunOArecon.exe asks to "VERIFY STEP SIZES AND CHECK FCN LOGIC"
+231 ,  p0dRecon       , TP0DAttenuationCurve does not properly apply attenuation
+234 ,  p0dRecon       , P0D tracks have wrong NDOF --> matching with POD always fails
+253 ,  trackerRecon   , Node ordering
+254 ,  trackerRecon   , TPC tracks represented in their full length
+268 ,  RECPACK        , Need to fix dealing with surfaces for state vectors out of geometry
+322 ,  oaRecon        , List of oaRecon Error Messages
+343 ,  oaRecon        , P0D-ECAL PIDs are not getting used or matched in global reconstruction
+381 ,  ecalRecon      , DsECAL recon objects have too many single-ended hits for FGD-triggered cosmics
+393 ,  p0dRecon       , P0D reconstruction producing different number of TReconPIDs in final container for run 7672-45, event 249312
+394 ,  p0dEcalRecon   , p0dEcal object are not matched to P0D objects
+395 ,  oaRecPack      , Problem with B-field for extrapolation in oaRecPack
+431 ,  ecalRecon      , Reconstructs two simultaneous tracks in incorrect corner of transecting bars
+454 ,  trackerRecon   , Tracker recon should not save objects where the combined kalman refit fails
+478 ,  trackerRecon   , TTrackerNode momenta incorrectly sorted for backward-going tracks
+481 ,  tpcRecon       , tpcRecon results altered by ElecSim for identical g4mc
+482 ,  trackerRecon   , trackerRecon results altered by ElecSim processing of identical g4mc files
+496 ,  oaRecon        , Add P0DReconParticle index to TP0DObject in Global Trk
+503 ,  oaRecon        , oaRecon head incorrectly uses Data Quality flags
+515 ,  oaRecon        , Missing algorithm name in oaRecon output
+518 ,  fgdRecon       , fgdRecon TPC->FGD matching is returning tracks where fit failed
+520 ,  fgdRecon       , A substantial number of FGD iso-recon tracks are failing RecPack refit
+522 ,  oaRecPack      , Request - function to return all constituents in a detector
+527 ,  tpcRecon       , TPC state is often outside the TPC drift volume
+531 ,  ecalRecon      , ecalRecon crashes on nd280-validate MC
+544 ,  p0dEcalRecon   , p0decalRecon PIDs not being filled properly
+551 ,  oaRecPack      , Memory leak and potentially large-scale bug in add_manager
+557 ,  p0dEcalRecon   , TP0DECALClusterProperties::fModule is never set
+563 ,  oaRecon        , Difference in momentum loss between recon and truth
+570 ,  fgdRecon       , fgdUtils::GetAttenCorrTime() in fgdRecon is sometimes throwing exceptions
+572 ,  oaRecPack      , "using namespace Recpack" in oaRecPack and RECPACK header files
+575 ,  p0dRecon       , P0D clusters have underestimated errors
+576 ,  nd280Recon     , PIDs from tpcRecon and oaRecon don't match
+592 ,  oaRecon        , Refitting of tracks can place objects outside Active Volume
+594 ,  oaRecon        , Small objects can have negative NDOF
+595 ,  oaRecon        , Objects can have negative chi2
+596 ,  tpcRecon       , likelihood fit converges with crazy values which can put the objects outside the TPC
+597 ,  oaRecon        , Node ordering issue with oaRecon
+598 ,  fgdRecon       , Tracker Recon hangs or exits with non-zero status on event.
+601 ,  fgdRecon       , Residual safety cut breaks logic of when to stop incremental matching
+603 ,  RECPACK        , Malformed/corrupted surface
+605 ,  p0dRecon       , P0D Muon Decay Tagger fails certain samples
+607 ,  fgdRecon       , Strange FGD time bin in event with no FGD hits
+608 ,  tpcRecon       , latest version of TPC recon breaks more tracks
+609 ,  oaRecPack      , Weird momentum loss for electrons at low momentum
+610 ,  trackerRecon   , Wrong seed state for refit of unused fgdRecon tracks
+615 ,  tpcRecon       , Event seen with track reconstructed with wrong sign in x!
+617 ,  oaRecPack      , Investigation of doubled peak structure in TPC-FGD incremental matching chi2's
+622 ,  fgdRecon       , TestFgdTpcMatching does not fill cleanliness variable
+623 ,  tpcRecon       , Uninitilaised variables in Validation.cxx
+632 ,  ecalRecon      , Use of oaGeomInfo->GetXXXX(hit_position)
+637 ,  oaRecon        , Infinite loop in oaRecon when processing real data COSMIC triggers
+644 ,  tpcRecon       , Duplicated TPC objects
+658 ,  oaRecon        , nd280Recon v1r5p1 fails on one cosmic event that was okay with v1r3p3
+659 ,  tpcRecon       , Incorrect bit logic in TTPCWaveForm.hxx
+662 ,  trackerRecon   , TTrackerConnector should copy TPC-FGD objects before using them
+677 ,  tpcRecon       , Substantial increase in OOFV background in nu-mu analysis
+679 ,  p0dRecon       , P0D Shower Opening Angle Always 0.2
+685 ,  oaRecPack      , Add function to filter TReconCluster similar to FilterHit
+688 ,  RECPACK        , Running magnet-off MC causes RecPack to crash
+691 ,  oaRecon        , Strange ECAL TrShVal in prod5B
+694 ,  RECPACK        , "using namespace CLHEP" in several header files
+696 ,  oaRecPack      , Near-duplicate classes in RECPACK and oaRecPack
+697 ,  RECPACK        , Scary #define in RECPACK/util/Definitions.h
+698 ,  ecalRecon      , ecalRecon relies on Recpack identifiers in global namespace
+699 ,  smrdRecon      , smrdRecon relies on Recpack identifiers in global namespace
+701 ,  tpcRecon       , tpcRecon relies on Recpack identifiers in global namespace
+703 ,  fgdRecon       , fgdRecon relies on Recpack identifiers in global namespace
+705 ,  RECPACK        , SIGABRT raised when processing beam MC files
+706 ,  trackerRecon   , trackerRecon relies on Recpack identifiers in global namespace
+707 ,  oaRecon        , oaRecon relies on Recpack identifiers in global namespace
+709 ,  oaRecPack      , Suggestion for speeding up oaRecPack geometry initialization
+713 ,  oaRecPack      , GetG4Trajectory in TValidationUtils seems broken
+725 ,  tpcRecon       , HEAD of tpcRecon cannot write output file
+729 ,  oaRecPack      , EcalFGD matching fails for some events
+742 ,  p0dEcalRecon   , TP0DECALCreatePid.cxx uses std::cout
+743 ,  smrdRecon      , Memory leak caused by misuse of THandles of THits in nd280Recon summer freeze
+744 ,  oaRecPack      , oaRecPack incorrectly treats >1 hit clusters when converting to measurements
+746 ,  RECPACK        , RecPack throwing SIGABRT

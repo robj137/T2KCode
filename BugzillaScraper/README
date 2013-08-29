@@ -1,0 +1,29 @@
+Some python scripts to query the nd280 bugzilla site for reconstruction-specific
+bugs. The tables that bugzilla provides are a bit limited in scope for what we
+want.
+
+//---------------------------------------------------------------------------// 
+GatherBugs.py 
+//---------------------------------------------------------------------------// 
+Assuming that the cookies.txt file is valid (after logging into the
+bugzilla.nd280.org site, export the cookie into a text file), this script will
+first grab (using curl) the bugzilla page using a search query for all recon
+bugs. It then parses the page and splits the bugs into a list and sorts by
+severity status of the bug. 
+
+It then queries each bug's page, i.e.
+https://bugzilla.nd280.org/show_bug.cgi?id=666 
+
+This unfortunately takes a while because it's an individual curl call for each
+bug, and the nd280.org site at TRIUMF is stupid slow on the best of days. But
+the individual bug's page is the only place to get the history information for
+that bug.
+
+Finally, it pickles all the info up for use by...
+
+//---------------------------------------------------------------------------// 
+TableByPackage.py
+//---------------------------------------------------------------------------// 
+
+This script reads in the saved pickle file with all the bug info and outputs
+HTML for input into the t2k.org reconstruction site.
